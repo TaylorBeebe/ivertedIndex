@@ -1,5 +1,5 @@
 inverter: inverter.cc
-	g++ inverter.cc -o run
+	g++ inverter.cc -o inverter
 all: inverter
 clean:
 	rm -f run *~
